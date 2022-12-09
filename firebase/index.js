@@ -7,12 +7,14 @@ import { getFirestore,collection, addDoc, getDocs, updateDoc, doc, deleteDoc } f
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDhqeSLa6MulaxHFEPfKtpS91d_ka6Y5Fg",
-  authDomain: "react-native-wishlist-app.firebaseapp.com",
-  projectId: "react-native-wishlist-app",
-  storageBucket: "react-native-wishlist-app.appspot.com",
-  messagingSenderId: "789168260738",
-  appId: "1:789168260738:web:d9b9d12fb9c948e222d69b"
+
+  apiKey: "AIzaSyDUiqdwX5XR7AHd4e4-jSqHyUXqLE1Wbl4",
+  authDomain: "react-native-wishlist-ap-1a9e3.firebaseapp.com",
+  projectId: "react-native-wishlist-ap-1a9e3",
+  storageBucket: "react-native-wishlist-ap-1a9e3.appspot.com",
+  messagingSenderId: "762850151120",
+  appId: "1:762850151120:web:860a386b03807be712acd5"
+
 };
 
 // Initialize Firebase
